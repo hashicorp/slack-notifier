@@ -1,4 +1,7 @@
 # frozen_string_literal: true
+# Copyright IBM Corp. 2013, 2019
+# SPDX-License-Identifier: MIT
+
 
 RSpec.describe Slack::Notifier::PayloadMiddleware::FormatAttachments do
   it "passes the text of attachments through linkformatter with options[:formats]" do

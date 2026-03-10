@@ -1,2 +1,5 @@
+# Copyright IBM Corp. 2013, 2019
+# SPDX-License-Identifier: MIT
+
 ruby:
   config_file: .rubocop.yml

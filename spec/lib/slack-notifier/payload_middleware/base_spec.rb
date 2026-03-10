@@ -1,4 +1,7 @@
 # frozen_string_literal: true
+# Copyright IBM Corp. 2013, 2019
+# SPDX-License-Identifier: MIT
+
 
 RSpec.describe Slack::Notifier::PayloadMiddleware::Base do
   before(:each) do
